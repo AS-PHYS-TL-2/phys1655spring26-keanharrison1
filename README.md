@@ -106,3 +106,10 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+# Notes for assignment 1 (Pre-Requisite: Set Up Environment)
+
+# Hello my name is Kean Harrison
+# Third-year Cognitive Science (CS concentration) major + Data Science & Engineering Business minor
+# I learned how to run commands in my macOS terminal, how to clone a repository, and how to operate effectively within VS code. 
