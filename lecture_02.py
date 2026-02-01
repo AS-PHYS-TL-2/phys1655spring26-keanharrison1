@@ -1,4 +1,6 @@
 
+# Date: Thursday, Jan 15, 2025
+
 # Notes / Programs
 print ("hello world")
 print ("hello", "world") # why does this print hello world and not helloworld? 
